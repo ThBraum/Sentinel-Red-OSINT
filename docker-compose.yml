@@ -1,0 +1,9 @@
+services:
+  sentinelgraph:
+    build:
+      context: .
+    working_dir: /app
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./outputs:/app/outputs

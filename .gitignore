@@ -1,0 +1,55 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Poetry virtualenv (local)
+.poetry/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Outputs and generated artifacts
+outputs/
+*.html
+*.json
+report.md
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs and coverage
+*.log
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# Mypy/cache
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml
+.env
+
+# Misc
+.python-version
+
+# Ignore Python bytecode from other versions
+*.pyc

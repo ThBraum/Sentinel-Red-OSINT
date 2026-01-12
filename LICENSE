@@ -1,0 +1,50 @@
+## License
+
+SENTINEL-RED DISCLAIMER LICENSE ("LICENSE")
+Version 1.0 — January 12, 2026
+
+IMPORTANT: THIS SOFTWARE MAY BE USED FOR SECURITY TESTING, RESEARCH, AND EDUCATIONAL PURPOSES ONLY. YOU ARE SOLELY RESPONSIBLE FOR COMPLYING WITH ALL APPLICABLE LAWS, REGULATIONS, AND POLICIES.
+
+I AM NOT RESPONSIBLE FOR YOUR ACTIONS. BY DOWNLOADING SOFTWARE FROM THIS REPOSITORY, YOU AGREE TO THE LICENSE.
+
+1. DEFINITIONS
+1.1 "Software" means the source code, scripts, binaries, documentation, and other materials made available in this repository.
+1.2 "You" means any individual or entity that downloads, installs, uses, copies, modifies, or distributes the Software.
+
+2. GRANT OF RIGHTS
+Subject to the terms of this License, the copyright holder grants You a worldwide, royalty-free, non-exclusive permission to:
+(a) use the Software;
+(b) copy and reproduce the Software;
+(c) modify the Software and create derivative works; and
+(d) distribute the Software and derivative works.
+
+3. CONDITIONS
+3.1 Attribution and Notice. You must include a copy of this License (including the disclaimer and limitation of liability) with any distribution of the Software or substantial portions of it.
+3.2 No Misrepresentation. You must not misrepresent the origin of the Software.
+3.3 Legal and Authorized Use Only. You agree to use the Software only in ways that are lawful and authorized by the applicable owner/operator of any systems, data, or networks involved.
+
+4. PROHIBITED USE
+You must not use the Software:
+(a) to access, probe, scan, test, exploit, disrupt, or damage any system, service, or network without explicit permission from the owner/operator;
+(b) to violate privacy, confidentiality, intellectual property rights, or any applicable law;
+(c) to create, deploy, or facilitate malware or other harmful activities.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+6. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER(S), AUTHOR(S), OR CONTRIBUTOR(S) BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+WITHOUT LIMITING THE FOREGOING, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE SOLELY RESPONSIBLE FOR YOUR ACTIONS AND FOR ANY CONSEQUENCES RESULTING FROM YOUR USE, MODIFICATION, OR DISTRIBUTION OF THE SOFTWARE.
+
+7. INDEMNIFICATION
+You agree to indemnify, defend, and hold harmless the copyright holder(s), author(s), and contributor(s) from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising from or related to Your use of the Software or violation of this License.
+
+8. TERMINATION
+This License is effective until terminated. Your rights under this License terminate automatically and immediately if You breach any term of this License. Upon termination, You must cease all use and distribution of the Software.
+
+9. SEVERABILITY
+If any provision of this License is held invalid or unenforceable, the remaining provisions will remain in full force and effect.
+
+10. ENTIRE AGREEMENT
+This License constitutes the entire agreement between You and the copyright holder regarding the Software and supersedes any prior or contemporaneous understandings.
